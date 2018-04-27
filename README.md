@@ -1,6 +1,6 @@
 # IBM Developer Day-Cloud Track- Resources
 
-## Agenda:
+## Agenda
 
 09:45 - 10:00	- OPENING SESSION: IBM Developer Way
 
