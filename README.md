@@ -32,7 +32,7 @@
 
 ## Feedback
 
-Please provide your session feedback here:[http://sessionfeedback.mybluemix.net/](http://sessionfeedback.mybluemix.net/)
+Please provide your session feedback here:[https://sessionfeedback.mybluemix.net/](https://sessionfeedback.mybluemix.net/)
 
 ## Relevant Links
 
