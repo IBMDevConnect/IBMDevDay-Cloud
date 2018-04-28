@@ -21,14 +21,11 @@
 1. Sign up for IBM Cloud Account before the workshop - [https://ibm.biz/BdZGT2](https://ibm.biz/BdZGT2). If you have an existing IBM Cloud Account from your organisation, you may use that for the workshop.
 2. Sign up for a free IBM Coder account - [https://ibmcoders.influitive.com/](https://ibmcoders.influitive.com/)
 3. Signup for a free GitHub account, if not already done  - [https://github.com/](https://github.com/)
-4. Download and Install IBM Cloud CLI - [https://console.bluemix.net/docs/cli/reference/bluemix_cli/download_cli.html](https://console.bluemix.net/docs/cli/reference/bluemix_cli/download_cli.html)
-5. Install IBM Cloud Functions plugin after installing IBM Cloud / Bluemix CLI - [https://console.bluemix.net/openwhisk/learn/cli](https://console.bluemix.net/openwhisk/learn/cli)
-6. Install Node.js - [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
-7. Install Angular CLI - [https://cli.angular.io/](https://cli.angular.io/)
-8. Install a Git command line or GUI client - [https://git-scm.com/downloads/](https://git-scm.com/downloads/)
-9. Install Docker - [https://docs.docker.com/install/](https://docs.docker.com/install/)
-10. Install kubectl - [https://kubernetes.io/docs/tasks/tools/install-kubectl/](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
-11. Get an API key from OMDb API for the Hands-on Workshop - [http://www.omdbapi.com/apikey.aspx](http://www.omdbapi.com/apikey.aspx)
+4. Script to install docker, kubectl, helm, IBM Cloud cli and required plug-ins -  [https://github.com/IBM-Cloud/ibm-cloud-developer-tools](https://github.com/IBM-Cloud/ibm-cloud-developer-tools)
+5. Install Node.js - [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
+6. Install Angular CLI - [https://cli.angular.io/](https://cli.angular.io/)
+7. Install a Git command line or GUI client - [https://git-scm.com/downloads/](https://git-scm.com/downloads/)
+8. Get an API key from OMDb API for the Hands-on Workshop - [http://www.omdbapi.com/apikey.aspx](http://www.omdbapi.com/apikey.aspx)
 
 ## Feedback
 
@@ -43,3 +40,4 @@ Please provide your session feedback here:[https://sessionfeedback.mybluemix.net
 * [Fabric for Deep Learning](https://github.com/IBM/FfDL)
 * [IBM DevConnect Meetup Group](https://www.meetup.com/IBMDevConnect-Bangalore/)
 * [IBM DevConnect Slack Channel](https://slackrequest.mybluemix.net)
+* [IBM Cloud Solution Tutorials](http://ibm.biz/solution-tutorials)
