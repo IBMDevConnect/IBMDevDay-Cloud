@@ -4,13 +4,13 @@
 
 09:45 - 10:00	- OPENING SESSION: IBM Developer Way
 
-10:00 - 11:00	- TECH TALK: How to deploy your app on IBM Cloud?
+10:00 - 11:00	- [TECH TALK: How to deploy your app on IBM Cloud?](https://github.com/IBMDevConnect/IBMDevDay-Cloud/blob/master/Deep%20dive%20in%20to%20IBM%20Cloud.pptx)
 
 11:00 - 12:30	- [WORKSHOP: Container Orchestration with Kubernetes: A real-time experience](https://github.com/IBMDevConnect/IBMDevDay-Cloud/blob/master/Container%20Orchestration%20with%20Kubernetes.pdf)
 
 12:30 - 13:00 - LUNCH
 
-13:00 - 14:30 - WORKSHOP: Serverless - what it is and what it is not?
+13:00 - 14:30 - [WORKSHOP: Serverless - what it is and what it is not?](https://github.com/IBMDevConnect/IBMDevDay-Cloud/blob/master/Serverless-What_it_is_what_it_is_not.pptx)
 
 14:30 - 15:30 - [TECH TALK: DevOps, Microservices and much more: The endless story of Containers](https://github.com/IBMDevConnect/IBMDevDay-Cloud/blob/master/IBM_Day_Microservices_Talk.pptx)
 
