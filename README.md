@@ -27,6 +27,12 @@
 7. Install a Git command line or GUI client - [https://git-scm.com/downloads/](https://git-scm.com/downloads/)
 8. Get an API key from OMDb API for the Hands-on Workshop - [http://www.omdbapi.com/apikey.aspx](http://www.omdbapi.com/apikey.aspx)
 
+## Code Patterns
+
+[Deploy React Application on Kubernetes](https://developer.ibm.com/code/patterns/deploy-a-react-application-on-kubernetes/)
+
+[Deploy Spring Boot Microservices on Kubernetes](https://developer.ibm.com/code/patterns/deploy-spring-boot-microservices-on-kubernetes/)
+
 ## Feedback
 
 Please provide your session feedback here:[https://sessionfeedback.mybluemix.net/](https://sessionfeedback.mybluemix.net/)
