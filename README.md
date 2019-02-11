@@ -1,4 +1,4 @@
-# IBM Developer Day-Cloud Track- Resources
+# IBM Dev Day-Cloud Track- Resources
 
 ## Agenda
 
